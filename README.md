@@ -3,7 +3,7 @@
 Cliente REST que usa JAX-RS para consumir servicio web de: 
 - [TRANSCRON - API REST CON SLIM (PHP) 🐘](https://github.com/jkr115/transcron-rest-slim-php)
 
-Principales tecnologías utilizadas: `IntelliJ IDEA, jax-rs.`
+Principales tecnologías utilizadas: `IntelliJ IDEA, JDK 8, jax-rs.`
 
 ## :gear: CONFIGURACIÓN
 
